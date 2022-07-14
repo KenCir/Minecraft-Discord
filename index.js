@@ -9,7 +9,7 @@ const client = new Client({
     ],
 });
 const wss = new WebSocket.Server({
-    port: 3000
+    port: process.env.PORT
 });
 
 client.once('ready', () => {
