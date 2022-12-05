@@ -9,7 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "discord.js": "^13.8.1",
+    "discord.js": "^14.7.1",
     "dotenv": "^16.0.1",
     "uuid": "^8.3.2",
     "ws": "^8.8.0"
